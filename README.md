@@ -11,7 +11,7 @@ All vehicles have the option to accelerate and decelerate by 5 mph, trucks have 
   * [License](#license)
 
 ## Installation
-Fork the repo into your own branch, then run the following command: `npm i ; npm run build`
+Fork the repo into your own branch, then run the following commands: `npm i ; npm run build`
 
 ## Usage
   !["Video of the instructions to run the Vehicle Builder"](./assets/Challenge%206%20Vehicle%20Builder.mp4)
